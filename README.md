@@ -1,17 +1,24 @@
 # Web Dev
 
+Topics are sorted according to www.roadmap.sh Frontend Web Developer Roadmap.
+
+Resources for major web development topics in different formats. Choose according to your learning style.
+
+> You can find free downloads of some Paid courses on freecoursesite.com. Use an ad blocker.
+
+
 ## Resources
 
 ### HTML
 |Type|Free/Paid|Name|Link|Recommended|
 |---|----|---|---|---|
-|YouTube|Free|HTML Crash Course For Absolute Beginners|https://www.youtube.com/watch?v=UB1O30fR-EE|✅|
+|YouTube|Free|HTML Crash Course For Absolute Beginners|https://www.youtube.com/watch?v=UB1O30fR-EE||
 |Course|Free|Responsive Web Design|https://www.freecodecamp.org/learn/responsive-web-design/|✅|
 
 ### CSS
 |Type|Free/Paid|Name|Link|Recommended|
 |---|----|---|---|---|
-|YouTube|Free|CSS Crash Course For Absolute Beginners|https://www.youtube.com/watch?v=yfoY53QXEnI|✅|
+|YouTube|Free|CSS Crash Course For Absolute Beginners|https://www.youtube.com/watch?v=yfoY53QXEnI||
 |Course|Free|Responsive Web Design|https://www.freecodecamp.org/learn/responsive-web-design/|✅|
 
 ### JavaScript - Vanilla
