@@ -1,6 +1,6 @@
 # Web Dev
 
-Topics are sorted according to www.roadmap.sh Frontend Web Developer Roadmap.
+Topics are sorted according to www.roadmap.sh Web Developer Roadmap.
 
 Resources for major web development topics in different formats. Choose according to your learning style.
 
