@@ -28,7 +28,6 @@ Resources for major web development topics in different formats. Choose accordin
 |Course|Free|JavaScript Algorithms and Data Structures|https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/|✅|
 |Text|Free|The Modern JavaScript Tutorial|https://javascript.info/||
 |Text|Free|Eloquent JavaScript|https://eloquentjavascript.net/|✅|
-|Course|Free|Traversy Media - Vanilla JavaScript|https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX||
 |Course|Paid|Modern JavaScript From The Beginning|https://www.udemy.com/course/modern-javascript-from-the-beginning/||
 |Course|Paid|JavaScript - The Complete Guide 2021 (Beginner + Advanced)|https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/||
 |Text|Paid|JavaScript: The Definitive Guide|https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/||
